@@ -5,8 +5,8 @@ function Navbar() {
     <section className=" py-1 ">
       <nav className=" flex justify-between container-wrapper items-center">
         <div className=" flex items-center gap-1">
-          <img src="images/logo2.png" alt="" className=" h-[80px]" />
-          <h2 className="asul-bold text-xl sm:text-3xl text-[#ffffff]">Trump VS Beden</h2>
+          <img src="images/logo2.png" alt="" className=" h-[120px]" />
+          <h2 className="asul-bold text-xl sm:text-3xl text-[#ffffff]">Obama VS Trump</h2>
         </div>
 
         {/* <div>
