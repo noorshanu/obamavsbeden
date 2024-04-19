@@ -17,10 +17,10 @@ function Aboutus() {
             <h1 className=" asul-bold text-4xl py-4 text-center">About us</h1>
 
             <p className=" text-xl py-2">
-              Dive into the 2024 Election frenzy with "BTRUMP! The first Trump
+              Dive into the 2024 Election frenzy with "$TOBAMA! The first Obama
               vs Beden meme on Solana blockchain, featuring an array of vibrant,
               meme-inspired designs that capture the competitive essence of the
-              election battle between Donald Trump and Joe Biden. Each meme and
+              election battle between Donald Obama and Joe Biden. Each meme and
               NFT (non-fungible token) showcases caricatured depictions of the
               candidates in various humorous and iconic moments from the
               campaign trail.

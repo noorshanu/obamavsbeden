@@ -12,7 +12,7 @@ function Joinclub() {
           </h1>
 
           <p className=" text-center text-xl py-4">
-            Ready to embrace the Baby Trump spirit? Here's how you can get
+            Ready to embrace the Baby Obama spirit? Here's how you can get
             involved:
           </p>
         </div>
@@ -28,11 +28,11 @@ function Joinclub() {
             </p>
 
             <div className=" flex justify-center gap-4 items-center">
-              <a href="https://t.me/babytrumpso" target="_blank" className=" text-lg ">
+              <a href="https://t.me/babyObamaso" target="_blank" className=" text-lg ">
                 <FaTelegram />
               </a>
 
-              <a href="https://twitter.com/BabyTrumphh" target="_blank" className=" text-lg">
+              <a href="https://twitter.com/BabyObamahh" target="_blank" className=" text-lg">
                 <FaSquareXTwitter />
               </a>
             </div>
@@ -42,7 +42,7 @@ function Joinclub() {
             <h2 className=" text-2xl py-3 asul-bold">Spread the word</h2>
 
             <p className=" text-lg py-4">
-              Share the laughter and spread the message of Baby Trump with your
+              Share the laughter and spread the message of Baby Obama with your
               friends, family, and fellow Meme coin enthusiasts. The more, the
               merrier!
             </p>
