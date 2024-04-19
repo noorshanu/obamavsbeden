@@ -25,7 +25,7 @@ function Hero() {
 
           <div className="flex justify-center gap-4 items-center">
             <a
-              href="https://www.dextools.io/app/en/solana/pair-explorer/DUXstahu6oU1m39LgCmYh9QCSK7q2wrtKPEcv5iRwERD?t=1713463968983"
+              href="https://www.dextools.io/app/en/solana/pair-explorer/43zdpWU64z1VUbxTMRQdY9tG6srTcaPVTWDJQYCQbZyR?t=1713505406512"
               target="_blank"
               className="bg-[#ad2450]  rounded-full text-lg sm:text-2xl py-2 px-6 font-bold asul-bold  border-2 border-black"
             >
