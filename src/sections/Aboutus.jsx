@@ -18,7 +18,7 @@ function Aboutus() {
 
             <p className=" text-xl py-2">
               Dive into the 2024 Election frenzy with "$TOBAMA! The first Obama
-              vs Beden meme on Solana blockchain, featuring an array of vibrant,
+              vs Trump meme on Solana blockchain, featuring an array of vibrant,
               meme-inspired designs that capture the competitive essence of the
               election battle between Donald Obama and Joe Biden. Each meme and
               NFT (non-fungible token) showcases caricatured depictions of the
