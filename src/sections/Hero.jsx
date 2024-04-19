@@ -15,11 +15,11 @@ function Hero() {
 
           <div className="bg-[#ad2450]  rounded-full py-2 px-4 my-3">
             <a
-              href="https://solscan.io/token/7S6i87ZY29bWNbkviR2hyEgRUdojjMzs1fqMSXoe3HHy"
+              href="https://solscan.io/token/2jyRoWtWtTFZx8XY3zrvdqB1uV1MEbiwuyWtFaegS1yX"
               target="_blank"
               className="asul-bold text-xs sm:text-2xl"
             >
-            7S6i87ZY29bWNbkviR2hyEgRUdojjMzs1fqMSXoe3HHy
+           2jyRoWtWtTFZx8XY3zrvdqB1uV1MEbiwuyWtFaegS1yX
             </a>
           </div>
 
