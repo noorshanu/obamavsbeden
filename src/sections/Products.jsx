@@ -10,7 +10,7 @@ function Products() {
           </div>
 
           <div className=" flex justify-center  flex-col">
-            <h2 className=" text-3xl asul-bold text-center">Community Voting: Holders of BTRUMP tokens can participate in community-driven events and decisions, impacting future collectible releases and features.</h2>
+            <h2 className=" text-3xl asul-bold text-center">Community Voting: Holders of $TOBAMA tokens can participate in community-driven events and decisions, impacting future collectible releases and features.</h2>
 
 
           </div>
